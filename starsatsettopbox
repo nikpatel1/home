@@ -5,9 +5,9 @@
       "name": "",
       "imgurl": "",
       "playurl": "",
-      "admob_interstitial":"ca-app-pub-9046896383467260/5946233739",
-      "admob_native":"ca-app-pub-9046896383467260/9693907053",
-      "admob_banner":"ca-app-pub-9046896383467260/4824723759"
+      "admob_interstitial":"/21753324030,22783799489/com.settopbox.starsatsettopboxremote_Interstitial",
+      "admob_native":"/21753324030,22783799489/com.settopbox.starsatsettopboxremote_Native",
+      "admob_banner":"/21753324030,22783799489/com.settopbox.starsatsettopboxremote_Banner"
 
 }
 ]
